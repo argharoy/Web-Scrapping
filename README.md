@@ -1,2 +1,4 @@
 # Web-Scrapping
-Extarcts reviews from mouthshut.com 
+Extarcts reviews from various websites. 
+Cleans html and supporting tags and leaves the required text .
+
